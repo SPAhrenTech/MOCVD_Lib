@@ -1,0 +1,3 @@
+4C	Gain	RW
+50	Reset Time	RW
+52	Rate

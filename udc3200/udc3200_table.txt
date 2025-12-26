@@ -1,0 +1,6 @@
+4C	Gain #1 (Prop Band #1 if active)	RW
+50	Reset #1	RW
+52	Rate #1	RW
+5A	Alarm #1 SP #1	RW
+5C	Alarm #1 SP #2	RW
+78	Working Set Point	RW

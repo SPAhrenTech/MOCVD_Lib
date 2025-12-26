@@ -1,0 +1,18 @@
+Command	Alias	Arg 1	Arg 2	Arg 3	Arg 4	Arg 5	Arg 6	Arg 7	Arg 8	Arg 9	Arg 10
+R_H2	H2 (HN)	Remote	Active	Flow1							
+R_N2	N2 (HN)	Remote	Active	Flow1							
+R_Al	Al (AL)	Remote	Active	Run	Flow1	Bubbler					
+R_Ga	Ga (GA)	Remote	Active	Run	Flow1	Flow2	Flow3	Bubbler	H2_Dilute		
+R_In	In (IN)	Remote	Active	Run	Flow1	Bubbler					
+R_PH3	PH3 (PG)	Remote	Active	Run	Flow1	Gas_Source	H2				
+R_AsH3	AsH3 (ASG)	Remote	Active	Run	Flow1	Gas_Source	H2				
+R_P_Liq	P Liquid (PL)	Remote	Active	Run	Flow1	Bubbler					
+R_As_Liq	Plasma Feed (ASL)	Remote	Active	Run	Flow1	Bubbler					
+R_Fe	Fe (FE)	Remote	Active	Run	Flow1	Flow2	Flow3	Bubbler	H2_Dilute		
+R_P_Dop	p Dopant (PDOP)	Remote	Active	Run	Flow1	Flow2	Flow3	Flow4	Bubbler	H2_Dilute	Gas_Source
+R_N_Dop	n Dopant (NDOP)	Remote	Active	Run	Flow1	Flow2	Flow3	Flow4	Bubbler	H2_Dilute	Gas_Source
+H_Heater	Heater	Remote	Heater	Spinner							
+V_Vacuum	Vacuum	Vac_Exhaust	Atm_Exhaust								
+T_Set_Temp	Set Temperature	Temperature									
+W_Wait	Wait										
+L_Loop	Loop										

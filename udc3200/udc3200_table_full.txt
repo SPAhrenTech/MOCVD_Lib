@@ -1,0 +1,55 @@
+40	PV	R
+42	RV; Remote Set Point; SP2	R
+44	Working Set Point	R
+46	Output	R
+48	Input #1	R
+4A	Input #2	R
+4C	Gain #1 (Prop Band #1 if active)	RW
+4E	Direction	R
+50	Reset #1	RW
+52	Rate #1	RW
+54	Cycle Time #1	RW
+56	PV Low Range	R
+58	PV High Range	R
+5A	Alarm #1 SP #1	RW
+5C	Alarm #1 SP #2	RW
+60	Gain #2 (Prop Band #2 if active)	RW
+62	Deadband	RW
+64	Reset #2	RW
+66	Rate #2	RW
+68	Cycle Time #2	RW
+6A	LSP #1	RW
+6C	LSP #2	RW
+6E	Alarm #2 SP #1	RW
+70	Alarm #2 SP #2	RW
+74	SP Low Limit	RW
+76	SP High Limit	RW
+78	Working Set Point	RW
+7A	Output Low Limit	RW
+7C	Output High Limit	RW
+7E	Output Working Value	RW
+80	PV Override Value	RW
+82	SP Override Value	RW
+84	Output Override Value	RW
+86	Ratio	RW
+88	Bias	RW
+8A	Deviation	R
+8C	LSP #3	RW
+8E	LSP #4	R
+9E	ALG1 Bias	RW
+A0	ALG2 Bias	R
+A2	Aux Output	R
+A4	Setpoint Ramp Time	RW
+A6	Setpoint Ramp Setpoint	RW
+A8	Input 1 Ratio	RW
+AA	Input 1 Bias	RW
+AC	Input 2 Ratio	R
+AE	Input 2 Bias	R
+B0	SP/PV Switch 1 to 2	RW
+C0	Current 1 Output	R
+#F6	Fuzzy Enable	RW
+#F8	Shed Enable	RW
+#FA	Auto/Manual State	RW
+#FB	Set Point State	RW
+#FC	Remote/Local Set Point State	RW
+#FE	Loop Status	R
